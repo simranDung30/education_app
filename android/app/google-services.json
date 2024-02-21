@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391902871783",
+    "project_id": "education-app-809ad",
+    "storage_bucket": "education-app-809ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391902871783:android:e579678fb3dd98523de242",
+        "android_client_info": {
+          "package_name": "com.example.brain_school_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxx-u7K_WtQ4MIP6O4ldyu4KG6fZ0L2UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
